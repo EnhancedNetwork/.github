@@ -1,12 +1,36 @@
-## Hi there 👋
+# The Enhanced Network
 
-<!--
+Welcome to **The Enhanced Network (TEN)**, where we specialize in creating innovative solutions for gamers and developers alike. Our mission is to enhance your digital experience through custom tools, mods, and community-driven projects.
 
-**Here are some ideas to get you started:**
+## What We Do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Game Enhancements:** We create mods and tools to enhance popular games like Among Us and Minecraft.
+- **Cybersecurity Solutions:** Our cybersecurity division provides tools and services to protect your online presence.
+- **Custom Discord Bots:** We develop and maintain custom Discord bots to help automate and enhance community management.
+
+## Our Projects
+
+- **[Town of Host: Enhanced](https://weareten.ca/TOHE):** The #1 Host-Only mod for Among Us, bringing new roles and features to the game!
+- **[Enhanced Minecraft Community](https://weareten.ca/minecraft/):** A whole new Minecraft server with multiple ways to change your Minecraft Experience
+- **[Cybersecurity](https://weareten.ca/security/):** A cybersecurity experience that will widen your outlook on the internet and how to stay safe when browsing!
+
+## How to Get Involved
+
+We’re always looking for talented developers, testers, and community managers to join our team. If you’re passionate about gaming, development, or cybersecurity, consider contributing to one of our projects.
+
+- **[Join Our Discord](https://discord.gg/ten):** Connect with the community, ask questions, and participate in discussions.
+- **[Contribute on GitHub](https://github.com/EnhancedNetwork):** Check out our repositories, pick an issue, and submit a pull request.
+- **[Support Us](https://weareten.ca/services):** Learn about how you can support our projects, either through code contributions or financial support.
+
+## Contact Us
+
+For any inquiries or support, feel free to reach out:
+
+- **Email:** [support@weareten.ca](mailto:support@weareten.ca)
+- **Discord:** [Join our community](https://discord.gg/ten)
+
+---
+
+*Thank you for visiting The Enhanced Network! We look forward to collaborating with you to create amazing experiences for gamers and developers.*
+
+
